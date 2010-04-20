@@ -1,0 +1,7 @@
+core = "6.x"
+dependencies[] = "feeds"
+dependencies[] = "views"
+features[views][] = "feeds"
+name = "myfeeds"
+package = "Features"
+project = "myfeeds"

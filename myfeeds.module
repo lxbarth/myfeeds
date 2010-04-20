@@ -1,0 +1,3 @@
+<?php
+
+include_once('myfeeds.features.inc');
